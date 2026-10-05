@@ -2,7 +2,7 @@
 
 A clean personal portfolio website for Abir, a software engineering student based in Sylhet, Bangladesh. The project highlights his technical interests, software-focused projects, competitive programming work, and ways to get in touch.
 
-![Portfolio preview](./assets/portfolio-preview.png)
+![Portfolio preview](.portfolio-main/assets/portfolio-preview.png)
 
 ## Overview
 
